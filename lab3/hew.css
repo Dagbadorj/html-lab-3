@@ -1,0 +1,368 @@
+body {
+  background-color: #ffff80;
+  font-style: Futura;
+}
+.container {
+  width: 960px;
+  height: 2000px;
+  margin: auto;
+  margin-top: 50px;
+}
+.container2 {
+  float: left;
+  width: 60%;
+  height: 1600px;
+  background-color: white;
+}
+.content {
+  z-index: -1;
+  float: left;
+  width: 100%;
+  height: 400px;
+  background-color: white;
+}
+.education {
+  float: left;
+  width: 100%;
+  height: 400px;
+  background-color: white;
+}
+.edu1 {
+  float: left;
+  width: 100%;
+  height: 200px;
+  background-color: white;
+}
+.edu2 {
+  float: left;
+  width: 50%;
+  height: 200px;
+  background-color: white;
+}
+.edu3 {
+  float: left;
+  width: 50%;
+  height: 200px;
+  background-color: white;
+}
+.experience {
+  float: left;
+  width: 100%;
+  height: 650px;
+  background-color: white;
+}
+.exp1 {
+  float: left;
+  width: 100%;
+  height: 200px;
+  background-color: white;
+}
+.exp2 {
+  float: left;
+  width: 100%;
+  height: 150px;
+  background-color: white;
+}
+.exp3 {
+  float: left;
+  width: 100%;
+  height: 150px;
+  background-color: white;
+}
+.exp4 {
+  float: left;
+  width: 100%;
+  height: 150px;
+  background-color: white;
+}
+.bar {
+  float: left;
+  width: 100%;
+  height: 100px;
+  background-color: white;
+}
+.bar1 {
+  float: left;
+  width: 100%;
+  height: 50px;
+  background-color: #f4d03f;
+}
+.profile {
+  margin-top: 20px;
+  margin-left: 150px;
+  width: 300px;
+  clip-path: circle();
+}
+.sidebar {
+  float: left;
+  width: 40%;
+  height: 1600px;
+  background-color: black;
+}
+.cont {
+  font-size: 24px;
+  margin-bottom: 0;
+  margin-top: 300px;
+  margin-right: 25%;
+  margin-left: 25%;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  float: top;
+  border: 1px solid #f4d03f;
+  padding: 5px 0px 5px;
+  border-radius: 5px;
+}
+p {
+  margin-top: 10px;
+  margin-left: 50px;
+  font-size: 12px;
+  color: white;
+  text-decoration: none;
+}
+.ad {
+  margin-left: 100px;
+}
+.ad1 {
+  margin-left: 150px;
+}
+.first {
+  margin-left: 100px;
+  margin-top: 100px;
+  font-size: 15px;
+  text-align: center;
+  color: white;
+}
+.second {
+  margin-left: 150px;
+  margin-top: 50px;
+  font-size: 15px;
+  text-align: center;
+  color: white;
+}
+.gm {
+  margin-left: 100px;
+}
+.third {
+  margin-left: 100px;
+  margin-top: 50px;
+  font-size: 15px;
+  text-align: center;
+  color: white;
+}
+.ph1 {
+  margin-left: 100px;
+}
+.ph2 {
+  margin-left: 100px;
+}
+.pro {
+  font-size: 24px;
+  margin-bottom: 0;
+  margin-top: 50px;
+  margin-right: 25%;
+  margin-left: 25%;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  float: top;
+  border: 1px solid #f4d03f;
+  padding: 5px 0px 5px;
+  border-radius: 5px;
+}
+h2 {
+  font-size: 20px;
+  margin-bottom: 0;
+  margin-top: 50px;
+  margin-right: 25%;
+  margin-left: 25%;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  float: top;
+}
+.hobby {
+  font-size: 24px;
+  margin-bottom: 0;
+  margin-top: 80px;
+  margin-right: 25%;
+  margin-left: 25%;
+  text-align: center;
+  color: white;
+  text-decoration: none;
+  float: top;
+  border: 1px solid #f4d03f;
+  padding: 5px 0px 5px;
+  border-radius: 5px;
+}
+.ed {
+  font-style: Fantasy;
+  font-size: 30px;
+  text-align: center;
+  background-color: #f4d03f;
+  margin-bottom: 0;
+  margin-top: 80px;
+  margin-right: 25%;
+  color: black;
+  text-decoration: none;
+  float: top;
+}
+.ed1 {
+  margin-left: 100px;
+  margin-top: 50px;
+  font-size: 15px;
+  text-align: center;
+  color: black;
+}
+.music {
+  width: 40px;
+  height: auto;
+  margin-left: 30px;
+  margin-top: 40px;
+}
+.swim {
+  width: 50px;
+  height: auto;
+  margin-left: 30px;
+  margin-top: 45px;
+}
+.game {
+  width: 50px;
+  height: auto;
+  margin-top: 40px;
+  margin-left: 45px;
+}
+.yt {
+  width: 50px;
+  height: auto;
+  margin-left: 30px;
+  margin-top: 40px;
+}
+.location {
+  vertical-align: top;
+  width: 40px;
+  margin-left: 0;
+  margin-top: 40px;
+  height: auto;
+}
+.phone {
+  width: 40px;
+  height: auto;
+  margin-left: 30px;
+  margin-top: 40px;
+}
+.email {
+  width: 40px;
+  height: auto;
+  margin-left: 30px;
+  margin-top: 40px;
+}
+.abs {
+  width: 647px;
+  height: 150px;
+  position: absolute;
+  top: 15%;
+  left: 40%;
+  z-index: 1;
+}
+.abs1 {
+  width: 300px;
+  position: absolute;
+  top: 8%;
+  left: 30%;
+  z-index: 2;
+  border: 15px solid black;
+  border-radius: 50%;
+}
+.abs2 {
+  position: absolute;
+  top: 18%;
+  left: 36%;
+  font-style: Fantasy;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 0;
+  margin-top: 10px;
+  margin-left: 20%;
+  color: black;
+  text-decoration: none;
+  float: top;
+  z-index: 3;
+}
+.abs3 {
+  position: absolute;
+  top: 23%;
+  left: 32%;
+  font-weight: 200px;
+  font-style: Fantasy;
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 0;
+  margin-top: 10px;
+  margin-left: 20%;
+  color: black;
+  text-decoration: overline;
+  float: top;
+  z-index: 3;
+}
+.text {
+  font-weight: bold;
+  font-style: Fantasy;
+  font-size: 20px;
+  margin-top: 35px;
+  margin-left: 70px;
+  color: black;
+  text-decoration: none;
+  float: top;
+}
+.text2 {
+  font-style: Fantasy;
+  font-size: 20px;
+  margin-top: 20px;
+  margin-right: 25%;
+  color: black;
+  text-decoration: underline;
+  float: top;
+}
+.text3 {
+  font-weight: lighter;
+  font-style: Fantasy;
+  font-size: 20px;
+  margin-top: 35px;
+  margin-left: 50px;
+  margin-right: 30px;
+  color: black;
+  text-decoration: none;
+  float: top;
+}
+.text4 {
+  font-weight: bold;
+  font-style: Fantasy;
+  font-size: 20px;
+  margin-left: 70px;
+  color: black;
+  text-decoration: underline;
+  float: top;
+}
+.locationabs {
+  width: 40px;
+  position: absolute;
+  top: 50%;
+  left: 61%;
+  z-index: 2;
+}
+.emailabs {
+  width: 40px;
+  position: absolute;
+  top: 62%;
+  left: 61%;
+  z-index: 2;
+}
+.phoneabs {
+  width: 40px;
+  position: absolute;
+  top: 75%;
+  left: 61%;
+  z-index: 2;
+}
