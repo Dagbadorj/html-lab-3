@@ -348,21 +348,21 @@ h2 {
 .locationabs {
   width: 40px;
   position: absolute;
-  top: 55%;
+  top: 60%;
   left: 61%;
   z-index: 2;
 }
 .emailabs {
   width: 40px;
   position: absolute;
-  top: 67%;
+  top: 72%;
   left: 61%;
   z-index: 2;
 }
 .phoneabs {
   width: 40px;
   position: absolute;
-  top: 80%;
+  top: 85%;
   left: 61%;
   z-index: 2;
 }
